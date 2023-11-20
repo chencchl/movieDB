@@ -1,0 +1,10 @@
+D:\电影管理系统\obj\Debug\movieDB.csproj.AssemblyReference.cache
+D:\电影管理系统\obj\Debug\movieDB.Form1.resources
+D:\电影管理系统\obj\Debug\电影管理系统.Properties.Resources.resources
+D:\电影管理系统\obj\Debug\movieDB.csproj.GenerateResource.cache
+D:\电影管理系统\obj\Debug\movieDB.csproj.CoreCompileInputs.cache
+D:\电影管理系统\bin\Debug\电影管理系统.exe.config
+D:\电影管理系统\bin\Debug\电影管理系统.exe
+D:\电影管理系统\bin\Debug\电影管理系统.pdb
+D:\电影管理系统\obj\Debug\电影管理系统.exe
+D:\电影管理系统\obj\Debug\电影管理系统.pdb
