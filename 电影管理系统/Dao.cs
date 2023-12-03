@@ -7,7 +7,7 @@ namespace movieDB
         SqlConnection sc;
         public SqlConnection connect()
         {
-            string str = @"Data Source=localhost;Initial Catalog=moviedb;Uid=mysql.session;Pwd=cq761105;";
+            string str = @"Server=192.168.161.1;Catalog=moviedb;Uid=mysql.session;Pwd=cq761105;";
             SqlConnection sc = new SqlConnection(str);
             sc.Open();
             return sc;
